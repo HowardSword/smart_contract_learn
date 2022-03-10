@@ -2,6 +2,7 @@
 ⼀个简单的计数器
 Counter：合约状态变量，保存在链上
 count(): 合约函数
+sum(): 合约函数
 */
 pragma solidity ^0.8.0;
 contract Counter {
